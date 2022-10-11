@@ -1,5 +1,13 @@
 .App {
     text-align: center;
+    /* background-image: url("./images/img1.png");
+    background-repeat: no-repeat;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 200px; */
+    font-family: poppins;
 }
 
 .App-logo {
@@ -14,7 +22,10 @@
 }
 
 .App-header {
-    background-color: #282c34;
+    background-color: #021f2b;
+    /* background-image: url("../public/bg.jpg");
+    background-repeat: no-repeat;
+    width: 100%; */
     min-height: 100vh;
     display: flex;
     flex-direction: column;

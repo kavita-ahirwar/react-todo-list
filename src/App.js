@@ -1,7 +1,7 @@
 import 'bootstrap/dist/css/bootstrap.css';
 import React from 'react';
 import './App.css';
-import {Add} from './Add'
+import Add from './Add';
 import ItemList from './ItemList'
 
 
